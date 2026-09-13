@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bura Shewa
+# 👋 Hi, I'm Biruk Shewafera
 
 ### Full-Stack Developer | Cybersecurity-Focused Engineer
 
