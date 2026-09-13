@@ -80,13 +80,6 @@ A full-stack furniture e-commerce platform with product management, customer ord
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Burashewa\&layout=compact\&theme=github_dark\&hide_border=true)
 
----
-
-## 📈 Contribution
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Burashewa\&theme=github-dark-blue\&hide_border=true)
-
----
 
 ## 🤝 Let's Connect
 
